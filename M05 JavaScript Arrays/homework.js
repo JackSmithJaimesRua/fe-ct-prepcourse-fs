@@ -194,7 +194,7 @@ function mesesDelAño(array) {
    if (mesesEncontrados.length === 3){
        return mesesEncontrados;
    } else {
-       return "No se encontraron los meses pedidos";//ssss
+       return "No se encontraron los meses pedidos";
 
    }
 }
@@ -203,6 +203,7 @@ function tablaDelSeis() {
    // Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
    // La función devuelve un arreglo con los resultados de la tabla de multiplicar del 6 en orden creciente.
    // Tu código:
+   
 }
 
 function mayorACien(array) {
